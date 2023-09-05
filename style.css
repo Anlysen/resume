@@ -1,0 +1,144 @@
+.wrapper {
+    width: 1000px;
+    height: 1138px;
+    background: #2E8B57;
+    margin-left: 150px;
+}
+
+.header {
+    height: 100px;
+}
+
+.name {
+    color: #DCDCDC;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    padding: 40px 0 0 46px;
+}
+
+.avatar {
+    display: block;
+    margin: 30px 0 0 450px;
+}
+
+.avatar_pic {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+}
+
+.about_me {
+    margin: 150px 0 0 20px;
+}
+
+.text_title {
+    color: #DCDCDC;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0 0 10px 40px;
+}
+
+.text_about {
+    color: #DCDCDC;
+    font-size: 20px;
+}
+
+.experience {
+    margin: 45px 0 0 20px;
+}
+
+.text_experience {
+    color: #DCDCDC;
+    font-size: 20px;
+}
+
+.skills {
+    margin: 45px 0 0 20px;
+}
+
+.text_skills {
+    color: #DCDCDC;
+    font-size: 20px;
+}
+
+.education {
+    margin: 45px 0 0 20px;
+}
+
+.text_education {
+    color: #DCDCDC;
+    font-size: 20px;
+}
+
+.additional {
+    margin: 45px 0 30px 20px;
+    color: #DCDCDC;
+    font-size: 20px;
+}
+
+.footer {
+    background: #2F4F4F;
+    height: 280px;
+}
+
+.social_network {
+    display: flex;
+}
+
+.pic_link-1 {
+    margin: 25px 0 0 25px;
+    font-size: 26px;
+}
+
+.pic_link-2 {
+    margin: 25px 0 0 178px;
+    font-size: 26px;
+}
+
+.link {
+    color: #DCDCDC;
+    text-decoration: none;
+    margin: 0 0 0 10px;
+}
+
+.pic {
+    width: 50px;
+    height: 50px;
+}
+
+.call_me {
+    margin: 40px 0 0 25px;
+}
+
+.number {
+    color: #DCDCDC;
+    font-size: 26px;
+}
+
+.email {
+    color: #DCDCDC;
+    font-size: 26px;
+}
+
+.call_block-1 {
+    padding: 35px 0 36px 0;
+}
+
+.call_block-2 {
+
+}
+
+.pic1 {
+    width: 45px;
+    height: 45px;
+    float: left;
+    margin: 0 12px 0 0;
+}
+
+.pic2 {
+    width: 40px;
+    height: 40px;
+    float: left;
+    padding: 0 12px 0 0;
+}
